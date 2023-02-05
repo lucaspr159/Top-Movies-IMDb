@@ -21,8 +21,8 @@
     border: none;
 }
 #navbar form button{
-    background-color: #f7d354;
-    border: 2px solid #f7d354;
+    background-color: #1fc7fe;
+    border: 2px solid #1fc7fe;
     border-radius: 4px;
     color: black;
     padding: .4rem;
@@ -33,5 +33,5 @@
 }
 #navbar form button:hover{
     background-color: transparent;
-    color: #f7d354;
+    color: #1fc7fe;
 }

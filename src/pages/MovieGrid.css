@@ -5,7 +5,7 @@
     margin: 2rem 0 1rem;
 }
 .title .query_text{
-    color: #f7d354;
+    color: #1fc7fe;
 }
 .movies_container{
     display: flex;
@@ -40,8 +40,8 @@
     margin-right: 5px;
 }
 .movies_container div a{
-    background-color: #f7d354;
-    border: 2px solid #f7d354;
+    background-color: #1fc7fe;
+    border: 2px solid #1fc7fe;
     border-radius: 4px;
     color: black;
     padding: 1rem .5rem;
@@ -53,5 +53,5 @@
 }
 .movies_container div a:hover{
     background-color: transparent;
-    color: #f7d354;
+    color: #1fc7fe;
 }

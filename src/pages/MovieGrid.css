@@ -30,9 +30,28 @@
 .movies_container div img,
 .movies_container div h2,
 .movies_container div p{
-    margin-bottom: 1rem;
+    margin-bottom: 1.5rem;
+}
+.movies_container div h2{
+    height: 100%;
 }
 .movies_container div svg{
     color: #f7d354;
     margin-right: 5px;
+}
+.movies_container div a{
+    background-color: #f7d354;
+    border: 2px solid #f7d354;
+    border-radius: 4px;
+    color: black;
+    padding: 1rem .5rem;
+    transition: .4s;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    
+}
+.movies_container div a:hover{
+    background-color: transparent;
+    color: #f7d354;
 }
